@@ -1,0 +1,21 @@
+
+Initial commit
+
+This is my initial commit in my new Git repo.It's going right so far!
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#       new file:   home.php
+#       new file:   register.php
+#
+# Untracked files:
+#       HEAD
+#       config
+#       css/
+#       description
+#       hooks/
+
